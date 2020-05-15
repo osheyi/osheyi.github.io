@@ -1,2 +1,0 @@
-# osheyi.github.io
- AI
